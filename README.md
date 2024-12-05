@@ -35,6 +35,18 @@ Lexicons are how custom data types are described in AT Protocol. This list is a 
 * Github https://github.com/Gregoor/skylights/tree/main/web/lexicons
 * Devs [Gregor @watwa.re](https://bsky.app/profile/watwa.re)
 
+## Picosky Chat
+
+* App https://psky.social/
+* Github https://github.com/psky-atp
+* Devs [Juliet](https://bsky.app/profile/futanari.tentacle.expert)
+
+## PinkSea Oekaki BBS
+
+* App https://pinksea.art/
+* Github https://github.com/shinolabs/PinkSea/
+* Devs [Prefetcher](https://bsky.app/profile/prefetcher.miku.place)
+
 # Bluesky
 
 The Bluesky team create and manage the Bluesky Lexicon plus steward the atproto core Lexicons and a few related ones like chat and ozone moderation tools.
