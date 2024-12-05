@@ -2,6 +2,16 @@
 
 Lexicons are how custom data types are described in AT Protocol. This list is a user friendly overview of the defined types and apps.
 
+* There is an ongoing discussion on moving Lexicons directly into the protocol [RFC: Lexicon Resolution #3074](https://github.com/bluesky-social/atproto/discussions/3074)
+* Join the [Lexicon Community Discussions](https://github.com/orgs/lexicon-community/discussions)
+
+# Tools
+
+* [atproto-browser](https://atproto-browser.vercel.app) - browse your atproto data
+* [pdsls](https://pdsls.dev/) - browse the data in your PDS, and if you login, edit existing records or create new ones
+
+# Lexicons
+
 ## WhtWnd Long-form Blog
 
 * App https://whtwnd.com
