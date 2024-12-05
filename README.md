@@ -4,7 +4,7 @@ Lexicons are how custom data types are described in AT Protocol. This list is a 
 
 ## WhtWnd Long-form Blog
 
-* App https://whtwind.com
+* App https://whtwnd.com
 * Bluesky Account [@whtwnd.com](https://bsky.app/profile/whtwnd.com)
 * Github https://github.com/whtwnd/whitewind-blog
 * Devs [K-NKSM @knksm5.final-techblog.com](https://bsky.app/profile/knksm5.final-techblog.com)
