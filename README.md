@@ -6,13 +6,14 @@ Lexicons are how custom data types are described in AT Protocol. This list is a 
 
 * App https://whtwnd.com
 * Bluesky Account [@whtwnd.com](https://bsky.app/profile/whtwnd.com)
-* Github https://github.com/whtwnd/whitewind-blog
+* Github https://github.com/whtwnd/whitewind-blog/tree/main/lexicons/com/whtwnd/blog
 * Devs [K-NKSM @knksm5.final-techblog.com](https://bsky.app/profile/knksm5.final-techblog.com)
 
 ## Smoke Signal Events and RSVP
 
 * App https://smokesignal.events
 * Bluesky Account [@smokesignal.events](https://bsky.app/profile/smokesignal.events)
+* GitHub https://github.com/SmokeSignal-Events/lexicon
 * Devs [Nick @ngerakines.me](https://bsky.app/profile/ngerakines.me)
 
 ## Frontpage Link Aggregator
@@ -25,7 +26,7 @@ Lexicons are how custom data types are described in AT Protocol. This list is a 
 ## LinkAT Blue Link-in-Bio
 
 * App https://linkat.blue
-* Github https://github.com/mkizka/linkat
+* Github https://github.com/mkizka/linkat/tree/main/lexicons/blue/linkat
 * Bluesky Account [@linkat.blue](https://bsky.app/profile/linkat.blue)
 * Devs [きずか Kizuka @mkizka.dev](https://bsky.app/profile/mkizka.dev)
 
