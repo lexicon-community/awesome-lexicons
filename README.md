@@ -35,6 +35,12 @@ Lexicons are how custom data types are described in AT Protocol. This list is a 
 * Github https://github.com/Gregoor/skylights/tree/main/web/lexicons
 * Devs [Gregor @watwa.re](https://bsky.app/profile/watwa.re)
 
+## ATFile File Uploader
+
+* Github https://github.com/ziodotsh/atfile
+* Devs [zio @zio.sh](https://bsky.app/profile/did:web:zio.sh), [Ducky @ducky.ws](https://bsky.app/profile/did:plc:kv7sv4lynbv5s6gdhn5r5vcw)
+* Namespace `blue.zio.atfile.*`
+
 # Bluesky
 
 The Bluesky team create and manage the Bluesky Lexicon plus steward the atproto core Lexicons and a few related ones like chat and ozone moderation tools.
