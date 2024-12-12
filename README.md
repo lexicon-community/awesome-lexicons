@@ -64,6 +64,11 @@ Lexicons are how custom data types are described in AT Protocol. This list is a 
 * Devs [zio @zio.sh](https://bsky.app/profile/did:web:zio.sh), [Ducky @ducky.ws](https://bsky.app/profile/did:plc:kv7sv4lynbv5s6gdhn5r5vcw)
 * Namespace `blue.zio.atfile.*`
 
+## Recipe Exchange
+
+* App https://recipe.exchange/
+* Bluesky Account [@recipe.exchange](https://bsky.app/profile/recipe.exchange)
+* Lexicon https://recipe.exchange/lexicons/
 
 # Bluesky
 
