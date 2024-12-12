@@ -69,6 +69,7 @@ Lexicons are how custom data types are described in AT Protocol. This list is a 
 * App https://recipe.exchange/
 * Bluesky Account [@recipe.exchange](https://bsky.app/profile/recipe.exchange)
 * Lexicon https://recipe.exchange/lexicons/
+* Devs [@joshhuckabee.com](https://bsky.app/profile/joshhuckabee.com)
 
 # Bluesky
 
