@@ -77,6 +77,7 @@ Lexicons are how custom data types are described in AT Protocol. This list is a 
 * App https://flushes.app
 * Bluesky Account [@flushes.app](https://bsky.app/profile/did:plc:omyqslmybfah7a5shue7hnqz)
 * Creator [@dame.is](https://bsky.app/profile/did:plc:gq4fo3u6tqzzdkjlwzpb23tj)
+* Namespace `im.flushing.right.now`
 
 # Bluesky
 
