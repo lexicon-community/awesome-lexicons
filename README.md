@@ -72,7 +72,7 @@ Lexicons are how custom data types are described in AT Protocol. This list is a 
 * Lexicon https://recipe.exchange/lexicons/
 * Devs [@joshhuckabee.com](https://bsky.app/profile/joshhuckabee.com)
 
-* ## Flushes (im.flushing)
+## Flushes (im.flushing)
 
 * App https://flushes.app
 * Bluesky Account [@flushes.app](https://bsky.app/profile/did:plc:omyqslmybfah7a5shue7hnqz)
