@@ -86,6 +86,11 @@ Lexicons are how custom data types are described in AT Protocol. This list is a 
 * Creator [@seabass](https://bsky.app/profile/seabass.bsky.social)
 * Namespace `blue.flashes.*`
 
+## atmo.lol
+* Repository https://tangled.sh/@mchal.lol/atmo.lol
+* Creator [@mchal.lol](https://bsky.app/profile/did:plc:w3aonw33w3mz3mwws34x5of6)
+* Namespace `lol.atmo.*`
+
 # Bluesky
 
 The Bluesky team create and manage the Bluesky Lexicon plus steward the atproto core Lexicons and a few related ones like chat and ozone moderation tools.
