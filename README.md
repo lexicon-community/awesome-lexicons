@@ -79,6 +79,13 @@ Lexicons are how custom data types are described in AT Protocol. This list is a 
 * Creator [@dame.is](https://bsky.app/profile/did:plc:gq4fo3u6tqzzdkjlwzpb23tj)
 * Namespace `im.flushing.right.now`
 
+## Flashes
+
+* App https://www.flashes.blue
+* Bluesky Account [@flashes.blue](https://bsky.app/profile/flashes.blue)
+* Creator [@seabass](https://bsky.app/profile/seabass.bsky.social)
+* Namespace `blue.flashes.*`
+
 ## atmo.lol
 * Repository https://tangled.sh/@mchal.lol/atmo.lol
 * Creator [@mchal.lol](https://bsky.app/profile/did:plc:w3aonw33w3mz3mwws34x5of6)
