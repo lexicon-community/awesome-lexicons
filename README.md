@@ -41,6 +41,13 @@ Lexicons are how custom data types are described in AT Protocol. This list is a 
 * Bluesky Account [@linkat.blue](https://bsky.app/profile/linkat.blue)
 * Devs [きずか Kizuka @mkizka.dev](https://bsky.app/profile/mkizka.dev)
 
+## BookHive Goodreads alternative
+
+* App https://bookhive.buzz
+* Bluesky Account [@bookhive.buzz](https://bsky.app/profile/bookhive.buzz)
+* Github [https://github.com/nperez0111/bookhive/tree/main/lexicons](https://github.com/nperez0111/bookhive/tree/main/lexicons)
+* Devs [Nick Perez @nickthesick.com](https://bsky.app/profile/nickthesick.com)
+
 ## Skylights Book Reviews 
 
 * App https://skylights.my
